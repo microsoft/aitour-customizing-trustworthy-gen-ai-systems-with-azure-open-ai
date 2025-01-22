@@ -1,4 +1,4 @@
-# The Foundation of Generative AI in Azure
+# Azure Open AI Service: Customizing trustworthy Gen AI systems at scale
 
 This repo is intended as a template for Microsoft AI Tour repositories
 <br />
