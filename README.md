@@ -9,7 +9,7 @@ It’s ‘year two’ for generative AI and the pace of innovation since launchi
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| BRK351 EN-US PPT Presentation | [Link 1](https://www.google.com/) | Full presentation deck in US English|
+| BRK351 EN-US PPT Presentation | [Link 1](https://www.bing.com/) | Full presentation deck in US English|
 
 ## Content Owners
 Nikisha Reyes-Grange, Director of Product Marketing, Microsoft
