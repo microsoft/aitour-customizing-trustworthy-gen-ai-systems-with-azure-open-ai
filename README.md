@@ -1,4 +1,4 @@
-# BRK351: Azure Open AI Service: Customizing trustworthy Gen AI systems at scale
+# BRK351: Azure OpenAI Service: Customizing trustworthy Gen AI systems at scale
 
 ![Session cover image with a bright "AI" text in 3D over a blue and purple abstract background.](img/351.png)
 
